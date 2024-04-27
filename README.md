@@ -1,5 +1,5 @@
 # Instagram Trend Analysis
-        The Instagram reach analysis dataset used for this study was sourced from Kaggle, a renowned platform for data science enthusiasts and professionals. The dataset comprises various features related to Instagram post reach and engagement, including impressions, saves, comments, likes, shares, profile visits, follows, caption, and hashtags.
+The Instagram reach analysis dataset used for this study was sourced from Kaggle, a renowned platform for data science enthusiasts and professionals. The dataset comprises various features related to Instagram post reach and engagement, including impressions, saves, comments, likes, shares, profile visits, follows, caption, and hashtags.
 
 The Instagram reach analysis dataset selected for this analysis contains the following columns:
 1.	Impressions: Impressions refer to the total number of times the content has been displayed on users' screens. It indicates the reach or exposure of the Instagram post.
@@ -17,4 +17,4 @@ The Instagram reach analysis dataset selected for this analysis contains the fol
 13.	Hashtags: Hashtags are keywords or phrases preceded by the '#' symbol, used to categorize content and increase discoverability on Instagram.
 
 **Conclusion:**
-        Wrapping up this analysis of the Instagram reach dataset from Kaggle, significant insights emerged regarding post performance metrics on the platform. By delving into data exploration, correlation analysis, and feature engineering, I unearthed meaningful relationships among engagement metrics like impressions, saves, comments, likes, shares, profile visits, and follows. These findings offer actionable guidance for content creators and marketers, empowering them to refine their Instagram strategies and amplify their reach, interaction, and audience growth.
+Wrapping up this analysis of the Instagram reach dataset from Kaggle, significant insights emerged regarding post performance metrics on the platform. By delving into data exploration, correlation analysis, and feature engineering, I unearthed meaningful relationships among engagement metrics like impressions, saves, comments, likes, shares, profile visits, and follows. These findings offer actionable guidance for content creators and marketers, empowering them to refine their Instagram strategies and amplify their reach, interaction, and audience growth.
